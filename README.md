@@ -46,7 +46,7 @@ Run the main.py file after installing all libraries mentioned in the same folder
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**Rohan Sai P, DA24B049**, IIT Madras (2025–26)
 
 
 ## Best Practices:
